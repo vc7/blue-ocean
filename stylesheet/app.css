@@ -23,7 +23,6 @@ footer {
 .bs-main-phone-title, .bs-main-address-title {
 	padding: 5px 15px;
 	background-color: #06a0ff;
-
 	-webkit-border-radius: 50px;
 	-moz-border-radius: 50px;
 	border-radius: 50px;
@@ -32,4 +31,11 @@ footer {
 .bs-main-phone-number, .bs-main-address-detail {
 	font-size: 3em;
 	margin: 5px 0px;
+}
+
+
+#map {
+	border: 3px solid #06a0ff;
+	width: 100%;
+	height: 200px;
 }
